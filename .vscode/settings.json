@@ -1,0 +1,25 @@
+{
+    "phpunit.args": [
+        
+        "x"
+    ],
+    "php.stubs": [
+        "*",
+        "xdebug"
+    ],
+    "php.format.rules.whileStatementNewLineBeforeRightParen": false,
+    "php.format.rules.openBraceOnNewLineForAnonymousClasses": true,
+    "php.format.rules.indentBraces": false,
+    "php.format.codeStyle": "PSR-12",
+    "editor.defaultFormatter": null,
+    "php.format.rules.arrayInitializersAlignKeyValuePairs": true,
+    "php.format.rules.arrayInitializersNewLineAfterLastElement": true,
+    "php.format.rules.arrayInitializersNewLineBeforeFirstElement": true,
+    "php.format.rules.callParametersNewLineBeforeRightParen": true,
+    "php.format.rules.callParametersWrap": "",
+    "php.format.rules.callParametersNewLineAfterLeftParen": true,
+    "php.format.rules.spaceWithinCatchParens": false,
+    "php.format.rules.switchStatementNewLineBeforeRightParen": true,
+    "php-intellisense.trace.server": "messages",
+    
+}
